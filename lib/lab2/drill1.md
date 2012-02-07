@@ -1,18 +1,18 @@
-1.
+1. Skip
 
-2.
+2. Skip
 
-3.
+3. Skip
 
-4.
+4. Skip
 
-5.
+5. Skip
 
-6.
+6. Skip
 
-7.
+7. Skip
 
-8.
+8. Skip
 
 9. You forgot the `l` at the end of `bool` 
 
