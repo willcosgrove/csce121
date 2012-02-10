@@ -2,7 +2,7 @@
 
 int main(){
   try {
-    vector<char> v(5); for(int i=0; i<=v.size(); ++i); cout << "Success!\n";
+    int x = 2000; char c = x; if (c==2000) cout << "Success!\n";
     keep_window_open();
     return 0;
   }

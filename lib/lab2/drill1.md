@@ -28,3 +28,15 @@
 14. No error.  Compiles and runs perfectly.
 
 15. `s` is not an array, so you can't `cout << s[i]`.  Should just be `cout << s`
+
+16. `then` is not valid syntax, remove it and the program compiles and runs.
+
+17. The comparison will always be false because of the limited nature of the `char` data type.
+
+18. The program will miss the first character because you increment `i` before the first loop.  Needs to be `i++` instead of `++i`
+
+19. Also needs to be `i++` or else you will be trying to access a value that is not in the range of the vector
+
+20. `i` will always be less than 10 because you never increment `i`.  Infinite loop.
+
+21. 
