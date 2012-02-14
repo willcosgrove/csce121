@@ -4,9 +4,9 @@
 int foo;
 
 void print_foo(){
-  cout << foo;
+  cout << foo << endl;
 }
 
-void print(int){
-  cout << int;
+void print(int num){
+  cout << num << endl;
 }
